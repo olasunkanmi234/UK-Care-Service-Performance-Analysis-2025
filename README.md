@@ -28,4 +28,5 @@ The dataset used in this project is synthetically generated UK care service data
 
 ## Author
 Olasunkanmi Adisa
+
 Excel | Python | SQL | Power BI
