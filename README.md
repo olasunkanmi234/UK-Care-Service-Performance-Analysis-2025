@@ -16,7 +16,7 @@ Northampton Central had the highest missed visit rate (3.12%), while Wellingboro
 I recommend reviewing staff scheduling, investigating reasons for delayed visits, monitoring attendance and using regular performance reports to identify potential service improvements.
 
 ## Power BI Dashboard
-
+![UK Care Service Power BI Dashboard](powerbi/screenshot_dashboard.png)
 
 The dashboard allows users to explore KPIs, monthly trends and performance by service location.
 
